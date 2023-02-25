@@ -10,10 +10,11 @@ fun main(args: Array<String>) {
     println(shoe)
 
     // using var and re-assigning values to our defined variables
-    var sdft_03 = "hybrid"
-    sdft_03 = "remote"
+    var sdft_03 = ("hybrid")
+    sdft_03 = ("remote")
     println(sdft_03)
 
+    // assigning a datatype to a variable
     var fish: Int = 12
     fish = 20
     println(fish)
