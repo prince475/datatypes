@@ -1,5 +1,6 @@
 # datatypes
-# DATA TYPES, CONTROL FLOW AND ARRAY LISTS
+
+## DATA TYPES, CONTROL FLOW AND ARRAY LISTS IN KOTLIN
 
 ### Initializing a function to write our code inside as we code along. 
 
